@@ -1,6 +1,7 @@
 # GGPL
 
 Workshop numero 1 : Cartella 2017-10-23 <br/>
+                   <a href="https://github.com/serenabencivenga/GGPL/blob/master/2017-10-23/Workshop_01.ipynb"> </a>
 Workshop numero 2 : Cartella 2017-10-30 <br/>
 Workshop numero 3 : Cartella 2017-11-03  <br/>
 Workshop numero 4 : Cartella 2017-11-10 <br/>
