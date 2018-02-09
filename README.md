@@ -12,3 +12,5 @@ Workshop numero 5 : Cartella 2017-11-20 <br/>
                    <a href="https://github.com/serenabencivenga/GGPL/tree/master/2017-11-20"> File IPYBN</a><br />
 Workshop numero 6 : Cartella 2017-12-04 <br/>
                    <a href="https://github.com/serenabencivenga/GGPL/blob/master/2017-12-04/Workshop06.ipynb"> File IPYBN</a><br />
+Creazione cartina villa : Cartella Creazione_Cartina_Villa <br/>
+                   <a href="https://github.com/serenabencivenga/GGPL/blob/master/Creazione_Cartina_Villa/Sviluppo_Cartina_2D.ipynb"> File IPYBN</a><br />
