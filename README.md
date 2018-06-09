@@ -1,4 +1,13 @@
 # GGPL
+Cartella di Serena Bencivenga
+Matricola 529099
+La cartella GGPL contiene i workshop assegnati durante i periodi di lezione.
+Sono presenti appunti e prove effettuate durante il corso.
+La cartella risulta essere il duplicato della cartella 1111111 presente sul mio github personale ma a causa di problemi la cartella 111111 non è stata usata per i caricamenti.
+
+La cartella ufficiale risulta essere proprio questa cartella <br>GGPL</br>
+
+I workshop sono stati rivisti e corretti.
 
 Workshop numero 1 : Cartella 2017-10-23 <br/>
                    <a href="https://github.com/serenabencivenga/GGPL/blob/master/2017-10-23/Workshop_01.ipynb"> File IPYBN </a> <br />
